@@ -1,0 +1,9 @@
+.card-img-top {
+    max-height: 180px;
+    object-fit: cover;
+}
+
+.bar-bg {
+    background: linear-gradient(135deg, #2d1e2f 0%, #3e2723 100%);
+    min-height: 100vh;
+}
